@@ -1,0 +1,33 @@
+body{
+  padding: 200px;
+  margin: 0;
+  font-family: sans-serif;
+  background-image: url(bg-02.jpg);
+
+}
+h1{ 
+  color: white;
+  font-family: "Bahasa Indonesia", cursive, sans-serif; 
+  font-size: 50px;
+
+}
+table{
+  border-collapse: collapse;
+  font-family: "Bahasa Indonesia", cursive, sans-serif;
+}
+th,td{
+  padding: 30px 50px 10px 10px;
+  color: white;
+  font-size: 20px;
+}
+th{
+
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+;
+}
+.Login{
+  color: black;
+  font-family: serif;
+  font-size: 15px;
+
+}
